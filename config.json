@@ -1,8 +1,8 @@
 {
-  "TOKEN": "NzYxNzEyMzM4NjQxODc5MDQw.X3el5Q.kn-FYUaf2SRc54PtuTApok198Cs",
-  "YOUTUBE_API_KEY": "AIzaSyDvWNnltf6d_a1Xp4ly4belGndmw2sQf78",
+  "TOKEN": "TOKEN",
+  "YOUTUBE_API_KEY": "",
   "SOUNDCLOUD_CLIENT_ID": "",
-  "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": ".",
-  "PRUNING": false
+  "MAX_PLAYLIST_SIZE": 10, //set to whatever
+  "PREFIX": "PREFIX", //set your prefix
+  "PRUNING": false //keep false
 }
